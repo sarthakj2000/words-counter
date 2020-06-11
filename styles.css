@@ -1,0 +1,23 @@
+#border {
+    border: 1px solid red;
+    height: 200px;
+    width: 100%;
+    font-size: 50px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+textarea {
+    height: 100%;
+    width: 100%;
+    border: 0px;
+    background-color: rgb(250, 97, 123);
+
+
+
+}
+body{
+  background-image: url("https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/1410/noise-bg.png");
+}
+.fonts{
+  font-family: 'Lobster', cursive;
+
+}
